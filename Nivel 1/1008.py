@@ -20,5 +20,5 @@ também deve haver um espaço em branco após o $.
 number = int(input())
 hour = int(input())
 valor = float(input())
-print(f' NUMBER = {number}')
-print(f' SALARY = U$ {hour * valor:.2f}')
+print(f'NUMBER = {number}')
+print(f'SALARY = U$ {hour * valor:.2f}')
