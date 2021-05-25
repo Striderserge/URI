@@ -51,3 +51,4 @@ while True:
             print('Inter venceu mais')
         else:
             print('Gremio venceu mais')
+        break
